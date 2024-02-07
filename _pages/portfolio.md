@@ -35,7 +35,7 @@ author_profile: true
 - <div style="text-align: justify;">Wrangled and analysed open data sets to investigate connections between alcohol consumption and aspects, e.g., alcohol production, unemployment, major religion, and life expectancy.</div>
 - <div style="text-align: justify;">Built an interactive R Shiny dashboard to allow users to visualise and explore the correlations.</div>
 - <div style="text-align: justify;">Conveyed dashboard objectives, design, and implementation to stakeholders through a report and PowerPoint presentation.</div>
-- <div style="text-align: justify;"><a href="https://github.com/tneo0002/AlcoholConsumptionShinyDashboard" target="_blank">Take a look</a> or download the <a href="/files/DockerisedRShinyAppInstructions.pdf" target="_blank">Docker image</a> to run it locally (access token available on resume or on request).</div>
+- <div style="text-align: justify;"><a href="https://github.com/tneo0002/AlcoholConsumptionShinyDashboard" target="_blank">Take a look</a> or follow the <a href="/files/DockerisedRShinyAppInstructions.pdf" target="_blank">instructions</a> to download the Docker image and run the container locally (access token available on resume or on request).</div>
   <figure style="border: 0.5px solid black; text-align: left;">
     <img src="/images/RShinyDashboard.png" alt="Illustration" style="width: 1000px;">
   </figure><br>
